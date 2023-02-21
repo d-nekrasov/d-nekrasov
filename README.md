@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**d-nekrasov/d-nekrasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
+<p></p>
 
-Here are some ideas to get you started:
+<h1><img src="d-nekrasov/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Php](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=6495ED)
+![TypeScript](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=6495ED)
+![NodeJS](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Npm](https://img.shields.io/badge/-LARAVEL-090909?style=for-the-badge&logo=laravel&logoColor=CB3837)
+![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=F16529)
+![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=2965F1)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=F05133)
+![Npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=CB3837)
+
+
+
+
+
+<h1><img src="d-nekrasov/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=d-nekrasov&layout=compact&show_icons=true&theme=white&icon_color=bf94ff&hide_border=true&bg_color=00000000&text_color=fff&title_color=bf94ff" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-nekrasov&layout=compact&theme=white&icon_color=bf94ff&hide_border=true&bg_color=00000000&text_color=fff&title_color=bf94ff" />
+</div>
+
+
