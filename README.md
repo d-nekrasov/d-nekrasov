@@ -15,6 +15,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=F05133)
 ![Npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=0db7ed)
 
 
 
