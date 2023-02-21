@@ -24,8 +24,8 @@
 <h1><img src="mona-loading.gif" width="40" height="40"> GitHub Public Stats</h1>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=d-nekrasov&layout=compact&show_icons=true&theme=white&icon_color=bf94ff&hide_border=true&bg_color=00000000&text_color=fff&title_color=bf94ff" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-nekrasov&layout=compact&theme=white&icon_color=bf94ff&hide_border=true&bg_color=00000000&text_color=fff&title_color=bf94ff" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=d-nekrasov&layout=compact&show_icons=true&theme=white&icon_color=E9D54D&hide_border=true&bg_color=00000000&text_color=fff&title_color=58a6ff" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-nekrasov&layout=compact&theme=white&icon_color=E9D54D&hide_border=true&bg_color=00000000&text_color=fff&title_color=58a6ff" />
 </div>
 
 
