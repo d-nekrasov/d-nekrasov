@@ -1,8 +1,8 @@
 
-<h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
+<h1><img src="mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
 <p></p>
 
-<h1><img src="d-nekrasov/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
+<h1><img src="octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Php](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=6495ED)
@@ -20,7 +20,7 @@
 
 
 
-<h1><img src="d-nekrasov/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
+<h1><img src="mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=d-nekrasov&layout=compact&show_icons=true&theme=white&icon_color=bf94ff&hide_border=true&bg_color=00000000&text_color=fff&title_color=bf94ff" />
