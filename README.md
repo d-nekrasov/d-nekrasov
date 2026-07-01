@@ -51,3 +51,5 @@ I build web applications with a focus on clean backend architecture, practical f
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-d--nekrasov-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-nekrasov)
+[![Telegram](https://img.shields.io/badge/Telegram-@nekrasovd-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/nekrasovd)
+[![Email](https://img.shields.io/badge/Email-den.nekrasov%40icloud.com-111827?style=for-the-badge&logo=icloud&logoColor=3693F3)](mailto:den.nekrasov@icloud.com)
